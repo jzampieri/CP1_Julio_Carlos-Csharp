@@ -17,8 +17,8 @@ O sistema foi desenvolvido em **C#** e utiliza **.NET** para sua execução.
 
 2. **Clone o repositório** (caso o código esteja no GitHub):
    ```bash
-   git clone <URL_DO_REPOSITORIO>
-   cd <PASTA_DO_PROJETO>
+   git clone <(https://github.com/jzampieri/CP1_Julio_Carlos-Csharp/blob/master/README.md)>
+   cd <CheckPoint01>
    ```
 
 3. **Compile e execute o projeto**
